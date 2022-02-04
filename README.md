@@ -16,12 +16,12 @@ Athleisure Company Cloud Database
 
 * A Powerpoint presentation to show the Flow of the PowerApp has been added to the Repository. 
 
-                                                 RELATIONAL DIAGRAM 
+                                                 RELATIONAL MODEL 
 
 
-![image](https://github.com/ameyakelaskar/Athleisure-Company-Cloud-Database/blob/main/132106935-44bdd357-347f-4996-95c0-c5b2199f5837.png)
+![image](https://github.com/ameyakelaskar/Athleisure-Company-Cloud-Database/blob/main/132106972-b1916a04-c43c-4b3b-8626-6106d785f947.png)
 
                                                   CONCEPTUAL MODEL 
 
 
-![image](https://github.com/ameyakelaskar/Athleisure-Company-Cloud-Database/blob/main/132106972-b1916a04-c43c-4b3b-8626-6106d785f947.png)
+![image](https://github.com/ameyakelaskar/Athleisure-Company-Cloud-Database/blob/main/132106935-44bdd357-347f-4996-95c0-c5b2199f5837.png)
