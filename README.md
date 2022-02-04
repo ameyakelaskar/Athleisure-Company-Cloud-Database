@@ -1,4 +1,4 @@
-Athleisure-Company-Cloud-Database
+Athleisure Company Cloud Database
 
 ![image](https://github.com/ameyakelaskar/Athleisure-Company-Cloud-Database/blob/main/132107938-fc8cafa9-07bc-4e2c-9598-73bd9f59863c.png)
 
